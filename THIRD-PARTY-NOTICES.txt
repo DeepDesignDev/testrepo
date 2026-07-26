@@ -1,0 +1,10 @@
+========================================================================
+THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+========================================================================
+
+This project uses third-party libraries or resources distributed under different licences.
+
+1. License Notice for [wallpaper1.jpg]
+------------------------------------------------------------------------
+Source: https://pexels.com
+Copyright (c) 2026 Author. All Rights Reserved.
